@@ -22,3 +22,4 @@ Output a line with an expected answer.
 ### Time Complexity
 Binary Conversion Loop,Printing Loop run in O(logN) time, the overall time complexity of the program is,
 𝑂(log⁡𝑁)
+
